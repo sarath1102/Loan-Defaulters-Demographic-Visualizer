@@ -1,4 +1,5 @@
-Loan Defaulters' Demographic Visualizer
+## Loan Defaulters' Demographic Visualizer
+
 This project visualizes the demographics of individuals who have defaulted on loans, using big data tools and interactive dashboards. The aim is to uncover trends based on age, income, occupation, and gender to aid in risk assessment and financial decision-making.
 
 ## Project Overview
